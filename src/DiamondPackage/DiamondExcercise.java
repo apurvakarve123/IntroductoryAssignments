@@ -5,6 +5,8 @@ package DiamondPackage;
  */
 public class DiamondExcercise {
 
+    private DiamondExcercise(){}
+
     public static int printIsoscelesTriangle(int n){
         int scount=n,acount=1,return_acount=0;
         for(int i=0;i<n;i++) {
