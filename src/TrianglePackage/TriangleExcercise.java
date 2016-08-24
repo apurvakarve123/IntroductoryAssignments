@@ -5,6 +5,8 @@ package TrianglePackage;
  */
 public class TriangleExcercise {
 
+    private TriangleExcercise(){}
+
     public static void printAsterisk(){
         System.out.println("*");
     }
